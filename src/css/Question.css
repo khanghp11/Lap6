@@ -1,0 +1,29 @@
+/* Add this to your existing CSS or create a new CSS file */
+.answer {
+  background-color: #ccc;
+  padding: 8px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.correct {
+  background-color: #aafca0; /* Light green for correct answer */
+}
+
+.incorrect {
+  background-color: #ffb3b3; /* Light red for incorrect answer */
+}
+
+.button-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.review-container {
+  margin-top: 20px;
+}
+
+.centered {
+  margin-left: 400px;
+}

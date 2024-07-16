@@ -1,0 +1,33 @@
+/* NewsPage.css */
+.news-title {
+  color: red;
+  margin-left: 20px;
+}
+.col-sm-3 {
+  padding: 20px;
+}
+
+.newscard {
+  margin-bottom: 20px;
+}
+
+.newscard .card-title {
+  font-size: 27px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.newscard .card-text {
+  font-size: 24px;
+}
+
+.newscard .card-body {
+  padding: 8px;
+}
+a {
+  font-size: 16px;
+  text-decoration: line-through;
+}
+.Container-news {
+  justify-content: center;
+}

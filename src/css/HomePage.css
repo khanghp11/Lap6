@@ -1,0 +1,14 @@
+.carousel-item img {
+  width: 100%;
+}
+.menu-item img {
+  border-radius: 50%;
+}
+.menu-item {
+  display: flex;
+  justify-content: space-around;
+}
+.home-heading {
+  margin-left: 10px;
+  color: red;
+}
